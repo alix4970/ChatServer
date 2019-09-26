@@ -1,0 +1,126 @@
+sep. 24, 2019 11:29:11 AM ServerThread run
+INFO: Ramos: Hey guys!
+sep. 24, 2019 11:29:39 AM ServerThread run
+INFO: Ramos: 
+sep. 24, 2019 11:29:39 AM ServerThread run
+INFO: Ramos: CHeck this out, it's working for now
+sep. 24, 2019 11:30:15 AM ServerThread run
+INFO: Ramos: 
+sep. 24, 2019 11:30:15 AM ServerThread run
+INFO: Ramos: STOP
+sep. 24, 2019 11:30:37 AM ServerThread run
+INFO: Ramos: 
+sep. 24, 2019 11:30:37 AM ServerThread run
+INFO: Ramos: STOP!
+sep. 25, 2019 9:28:17 PM ServerThread run
+INFO: Ibo: hey guys
+sep. 25, 2019 9:28:23 PM ServerThread run
+INFO: Joe: whats up
+sep. 25, 2019 9:28:58 PM ServerThread run
+INFO: Ibo: STOP
+sep. 25, 2019 9:29:05 PM ServerThread run
+INFO: Joe: 
+sep. 25, 2019 9:29:05 PM ServerThread run
+INFO: Joe: STOP
+sep. 25, 2019 9:31:57 PM ServerThread run
+INFO: Wajid: HEy
+sep. 25, 2019 9:32:00 PM ServerThread run
+INFO: Wajid: STOP
+sep. 25, 2019 9:35:46 PM ServerThread run
+INFO: Ali: Hey boys dette er en test
+sep. 25, 2019 9:35:49 PM ServerThread run
+INFO: Ali: STOP
+sep. 25, 2019 9:52:47 PM ServerThread run
+INFO: Ali: test
+sep. 25, 2019 9:54:21 PM ServerThread run
+INFO: ALi: -
+sep. 25, 2019 9:54:24 PM ServerThread run
+INFO: ALi: .
+sep. 25, 2019 9:54:32 PM ServerThread run
+INFO: ALi: !?.
+sep. 25, 2019 9:54:58 PM ServerThread run
+INFO: ALi: -
+sep. 25, 2019 9:57:01 PM ServerThread run
+INFO: Anders: Hi guys!
+sep. 25, 2019 9:57:09 PM ServerThread run
+INFO: Anders: hadhjasfjkahsf
+sep. 25, 2019 9:58:15 PM ServerThread run
+INFO: Anders: hey boys
+sep. 25, 2019 9:58:24 PM ServerThread run
+INFO: Anders: hey wajid
+sep. 25, 2019 9:59:57 PM ServerThread run
+INFO: Bjarne: Hva så venner!
+sep. 26, 2019 11:49:33 AM ServerThread run
+INFO: Wajid: llæadkas
+sep. 26, 2019 11:49:34 AM ServerThread run
+INFO: Wajid: d
+sep. 26, 2019 11:49:34 AM ServerThread run
+INFO: Wajid: ad
+sep. 26, 2019 11:49:34 AM ServerThread run
+INFO: Wajid: af 
+sep. 26, 2019 11:49:35 AM ServerThread run
+INFO: Wajid: f 
+sep. 26, 2019 11:49:35 AM ServerThread run
+INFO: Wajid: f 
+sep. 26, 2019 11:49:35 AM ServerThread run
+INFO: Wajid: f q
+sep. 26, 2019 11:49:35 AM ServerThread run
+INFO: Wajid: f 
+sep. 26, 2019 11:49:36 AM ServerThread run
+INFO: Wajid: af
+sep. 26, 2019 11:49:36 AM ServerThread run
+INFO: Wajid: s
+sep. 26, 2019 11:49:36 AM ServerThread run
+INFO: Wajid: f 
+sep. 26, 2019 11:49:36 AM ServerThread run
+INFO: Wajid: f
+sep. 26, 2019 11:49:36 AM ServerThread run
+INFO: Wajid:  
+sep. 26, 2019 11:49:36 AM ServerThread run
+INFO: Wajid: e
+sep. 26, 2019 11:49:36 AM ServerThread run
+INFO: Wajid: r 2
+sep. 26, 2019 11:49:37 AM ServerThread run
+INFO: Wajid: r
+sep. 26, 2019 11:49:37 AM ServerThread run
+INFO: Wajid: 2 r
+sep. 26, 2019 11:49:37 AM ServerThread run
+INFO: Wajid: fs
+sep. 26, 2019 11:49:37 AM ServerThread run
+INFO: Wajid: f
+sep. 26, 2019 11:49:37 AM ServerThread run
+INFO: Wajid:  2
+sep. 26, 2019 11:49:37 AM ServerThread run
+INFO: Wajid: 3r
+sep. 26, 2019 11:49:37 AM ServerThread run
+INFO: Wajid: 1 
+sep. 26, 2019 11:49:38 AM ServerThread run
+INFO: Wajid: fsd
+sep. 26, 2019 11:49:38 AM ServerThread run
+INFO: Wajid: g 
+sep. 26, 2019 11:49:38 AM ServerThread run
+INFO: Wajid: sg
+sep. 26, 2019 11:49:38 AM ServerThread run
+INFO: Wajid:  dz
+sep. 26, 2019 11:49:38 AM ServerThread run
+INFO: Wajid:  g
+sep. 26, 2019 11:49:39 AM ServerThread run
+INFO: Wajid: 2
+sep. 26, 2019 11:49:39 AM ServerThread run
+INFO: Wajid: 234 
+sep. 26, 2019 11:49:39 AM ServerThread run
+INFO: Wajid: 4
+sep. 26, 2019 11:49:39 AM ServerThread run
+INFO: Wajid: 234
+sep. 26, 2019 11:49:39 AM ServerThread run
+INFO: Wajid: 2 
+sep. 26, 2019 11:49:40 AM ServerThread run
+INFO: Wajid: g
+sep. 26, 2019 11:49:40 AM ServerThread run
+INFO: Wajid: d
+sep. 26, 2019 11:49:40 AM ServerThread run
+INFO: Wajid: fg
+sep. 26, 2019 11:49:41 AM ServerThread run
+INFO: Wajid: d 
+sep. 26, 2019 11:49:42 AM ServerThread run
+INFO: Wajid: stop
